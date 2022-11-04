@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
+pybase64
+Flask
+flask_cors
+flask_api
+python-dateutil
+pymysql
+requests
